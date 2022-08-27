@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/ITZ-FAIZAN/ToxicUserBot">
-        <img src="main/core/resources/images/tron-round.png" height="300" width="300" alt="TronUb">
+        <img src="main/core/resources/images/tron-round.png" height="300" width="300" alt="ToxicUb">
     </a>
 </p>
 
