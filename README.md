@@ -106,7 +106,7 @@ and get its bot token
 
 * Run the given command in termux
 
-*  ```apt update && apt upgrade && pkg install python3 git && cd $HOME && git clone https://github.com/ITZ-FAIZAN/ToxicUserBot.git && cd Tron && python3 session.py```
+*  ```apt update && apt upgrade && pkg install python3 git && cd $HOME && git clone https://github.com/ITZ-FAIZAN/ToxicUserBot.git && cd ToxicUserbot && python3 session.py```
 
 ---
 
